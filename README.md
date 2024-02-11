@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img width="200" height="200" src="https://raw.githubusercontent.com/subliminal-chords/subliminal-chords/main/public/assets/icons/android-chrome-512x512.png?sanitize=true&raw=true"  />
+  <img width="200" height="200" src="https://raw.githubusercontent.com/subliminal-chords/subliminal-chords.github.io/main/public/assets/icons/android-chrome-512x512.png?sanitize=true&raw=true"  />
 </div>
 
 ###
