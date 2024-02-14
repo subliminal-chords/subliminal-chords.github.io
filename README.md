@@ -20,3 +20,7 @@
 **Link:** https://subliminal-chords.github.io/
 
 </div>
+
+### Acknowledgements
+
+* [Utterances](https://utteranc.es/) - Comments for GitHub Pages based on GitHub Issues
