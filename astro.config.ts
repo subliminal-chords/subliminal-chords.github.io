@@ -5,7 +5,6 @@ import remarkToc from "remark-toc";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
 import { remarkReadingTime } from "./src/utils/remarkReadingTime";
-import AstroPWA from "@vite-pwa/astro";
 import remarkMath from "remark-math";
 
 import mdx from "@astrojs/mdx";
@@ -14,7 +13,6 @@ import mdx from "@astrojs/mdx";
 export default defineConfig({
   site: SITE.website,
   integrations: [
-    AstroPWA(),
     tailwind({
       applyBaseStyles: false
     }),

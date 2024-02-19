@@ -14,6 +14,24 @@
         }
     ],
     "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+    "background_color": "#fbfefb",
+    "display": "standalone",
+    "id": "io.github.subliminal-chords",
+    "start_url": "/",
+    "screenshots" : [
+        {
+          "src": "screenshot-narrow.png",
+          "sizes": "2374x2442",
+          "type": "image/png",
+          "form_factor": "narrow",
+          "label": "Subliminal Chords Home Screen"
+        },
+        {
+          "src": "screenshot-wide.png",
+          "sizes": "1498x746",
+          "type": "image/png",
+          "form_factor": "wide",
+          "label": "Subliminal Chords Home Screen"
+        }
+      ]
 }
