@@ -3,12 +3,12 @@
     "short_name": "Subliminal Chords",
     "icons": [
         {
-            "src": "android-chrome-192x192.png",
+            "src": "/assets/icons/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "android-chrome-512x512.png",
+            "src": "/assets/icons/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
@@ -20,14 +20,14 @@
     "start_url": "/",
     "screenshots" : [
         {
-          "src": "screenshot-narrow.png",
+          "src": "/assets/screenshots/screenshot-narrow.png",
           "sizes": "2374x2442",
           "type": "image/png",
           "form_factor": "narrow",
           "label": "Subliminal Chords Home Screen"
         },
         {
-          "src": "screenshot-wide.png",
+          "src": "/assets/screenshots/screenshot-wide.png",
           "sizes": "1498x746",
           "type": "image/png",
           "form_factor": "wide",
