@@ -7,7 +7,7 @@ featured: true
 draft: false
 description: Computing Fibonacci numbers in O(1) time with no extra space or pre-computed values.
 tags:
-  - docs
+  - algorithms
 ---
 
 ## TL;DR
