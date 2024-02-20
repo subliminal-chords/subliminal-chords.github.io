@@ -4,10 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.subliminal_chords.twa",
-      "sha256_cert_fingerprints": [
-        "60:F3:F5:C3:76:11:1C:46:7E:AA:25:A7:F7:4A:8B:03:4A:DA:EF:DB:EF:3F:B5:9A:D4:C9:94:B5:93:17:2B:CC",
-        "C7:A2:A5:F3:63:32:61:15:0E:51:06:50:F7:2F:96:AA:E7:8C:B1:FC:76:CA:19:0F:87:37:DB:6B:3A:67:50:B1"
-      ]
+      "sha256_cert_fingerprints":
+        ["C7:A2:A5:F3:63:32:61:15:0E:51:06:50:F7:2F:96:AA:E7:8C:B1:FC:76:CA:19:0F:87:37:DB:6B:3A:67:50:B1"]
     }
   }
 ]
