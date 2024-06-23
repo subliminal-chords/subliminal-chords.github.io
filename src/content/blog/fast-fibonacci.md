@@ -32,9 +32,9 @@ def fibo(n):
 
 Fibonacci was not the first one to come up with the Fibonacci Series and infact, he never claimed he did either. Leonardo Bonacci (born c. 1170) was the son of an Italian customs official Guglielmo Bonacci. He only became popularly known as Fibonacci long after his death when in 1838, Franco-Italian historian Guillaume Libri decided Leonardo was an awefully overused name and decided to just record him as _fillius Bonacci_ (a.k.a the "son" of Bonacci). There was never any doubt that Leonardo was a very talented mathematician. However, his most notable contributions were not so much mathematical formulations but rather a historical account of the mathematical wonders he discovered on his travel accross the Mediterranean. He found that the Hindu-Arabic Numerals were far superior to the Roman Numeral System (they didn't even have a zero back then?) that was prevalent in Europe at the time. In his book, _Liber Abaci_ he introduced the famous Fibonacci Series to solve a theoretical problem involving Rabbits (which we will discuss later) as an example of what can be achieved using the Indo-Arabic Number System. The Sequence, however, was described as early as 200 B.C. by Indian poet Acharya Pingala on enumerating possible patterns of Sanskrit poetry formed from syllables of two lengths. He called the sequence by the name **mātrāmeru**.
 
-# Fibonacci's Incestuous Rabbits
+# Fibonacci's Problematic Rabbit Field
 
-Sorry for the shocking title 😅. So Fibonacci described the Sequence as a solution the following problem -
+So Fibonacci described the Sequence as a solution the following problem -
 
 Image there are 2 rabbits on a field - one male and one female.
 
@@ -44,7 +44,7 @@ Image there are 2 rabbits on a field - one male and one female.
 
 3. The babies are born at the end of the following month and also always consist of a pair - one male and one female - who may reproduce from the next month onwards.
 
-Ignoring the horrid conditions under which these ignorant or vile (could be either) rabbits are reproducing, we can conclude the following pattern -
+Ignoring the questionable conditions under which these ignorant rabbits are reproducing, we can conclude the following pattern -
 
 1. Let's call the first pair of rabbits Pair 1.
 
