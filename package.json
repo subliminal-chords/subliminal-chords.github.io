@@ -14,7 +14,7 @@
     "cz": "cz",
     "prepare": "husky install",
     "lint": "eslint .",
-    "wrap:android": "mkdir -p .bubblewrap/subchords && cd .bubblewrap/subchords && bubblewrap init --manifest https://subliminal-chords.github.io/site.webmanifest",
+    "wrap:android": "mkdir -p .bubblewrap/subchords && cd .bubblewrap/subchords && bubblewrap init --manifest https://subliminal-chords.github.io/site.webmanifest && cd ../.. && node scripts/update-twa-manifest.js",
     "build:android": "cd .bubblewrap/subchords && bubblewrap build",
     "install:android": "cd .bubblewrap/subchords && bubblewrap install"
   },
