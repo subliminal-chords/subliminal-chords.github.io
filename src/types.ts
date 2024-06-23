@@ -1,4 +1,5 @@
 import type socialIcons from "@assets/socialIcons";
+import type { AppID } from "./constants";
 
 export type Site = {
   website: string;

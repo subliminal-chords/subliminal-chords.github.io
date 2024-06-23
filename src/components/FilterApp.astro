@@ -1,0 +1,13 @@
+---
+import { APP_ID_SEARCH_KEY, DEFAULT_APP_ID, convertStringToAppID } from "../constants.ts";
+
+export const prerender = false;
+
+const { appId: targetAppIdString } = Astro.props;
+const targetAppId = convertStringToAppID(targetAppIdString);
+const actualAppIdString = Astro.url.searchParams.get(APP_ID_SEARCH_KEY) || DEFAULT_APP_ID;
+const actualAppId = convertStringToAppID(actualAppIdString);
+---
+{
+    (targetAppId === actualAppId) && <slot />
+}
